@@ -5,7 +5,8 @@
 .container{
     background-color: green;
     margin: none;
-    width: 400px;
+    width: auto;
+    position:right;
 }
 .main{ 
     background: url(header-background.jpg);
