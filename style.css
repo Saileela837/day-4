@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: green;
+    margin: none;
+    width: 400px;
+}
+.main{ 
+    background: url(header-background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 320px;
+
+}
+.main h1{
+    margin-left: 400px;
+    padding-top: 50px;
+    color: green;
+}
+.main h5{ 
+    margin-left: 400px;
+    padding-top: 50px;
+}
+.btnn{
+    margin-left: 600px;
+    background-color: green;
+    border-color:green;
+    color: white;
+}
+.sub{ 
+    background-color:palegoldenrod;
+height: 450px;
+padding-top: 50px;
+}
+.column-1{
+    height: 200px;
+    width: 300px;
+    background: url(column-1.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 100px;
+}
+.column-2{
+    height: 200px;
+    width: 300px;
+    background: url(column-2.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-left: 400px;
+}
+
+.sub h2{ 
+    margin-left: 190px;
+}
+.sub h2 span{ 
+    margin-left: 400px;
+}
+
+.column-2 p{ 
+    padding-top: 200px;
+}
+.form{
+    width:300px;
+    height: 280px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 500px;
+    background:palegoldenrod;
+
+}
+
+.form button{
+    width: 250px;
+    height: 40px;
+    cursor: pointer;
+    margin-top:10px;
+    border-color: white;
+}
+
+.btnnn:hover{
+    background-color: green;
+    color: white;
+    border: none;
+
+}
+.end{
+    height: 350px;
+}
+.image1{
+    height:200px;
+    width: 200px;
+    background: url(image1.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 120px;
+    margin-top: 80px;
+    padding-top: 200px;
+}
+.image2{
+    height:200px;
+    width: 200px;
+    background: url(image2.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 400px;
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.image3{
+    height:200px;
+    width: 200px;
+    background: url(images3.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 680px;
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.image4{
+    height:200px;
+    width: 200px;
+    background: url(image4.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 960px;
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.image5{
+    height:200px;
+    width: 200px;
+    background: url(image5.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 120px;
+    margin-top: 100px;
+    padding-top: 200px;
+}
+.image6{
+    height:200px;
+    width: 200px;
+    background: url(team-image-2.png);
+    background-size: cover;
+    background-position:center;
+    margin-left: 400px;
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.image7{
+    height:200px;
+    width: 200px;
+    background: url(team-image-1.png);
+    background-size: cover;
+    background-position:center;
+    margin-left: 680px;
+    margin-top: -200px;
+    padding-top: 200px;
+}
+.image8{
+    height:200px;
+    width: 200px;
+    background: url(image8.jpg);
+    background-size: cover;
+    background-position:center;
+    margin-left: 960px;
+    margin-top: -200px;
+    padding-top: 200px;
+} 
+.information{
+    background-color:black;
+    height: 300px;
+    margin-top: 300px;
+
+}   
+.information h2{
+    color: white;
+    margin-left: 150px;
+    padding-top: 30px;
+}
+.information p{
+    color: white;
+    font-size: 18px;
+}
+
+.information h3{ 
+    margin-top:-195px;
+    margin-left: 850px;
+    color: white;
+}
+.information p1{ 
+    padding:-750px;
+    color: white;
+    margin-left: 750px;
+} 
+.information p2{ 
+    padding:-752px;
+    color: white;
+    margin-left: 750px;
+}
+.information p3{ 
+    padding:-754px;
+    color: white;
+    margin-left: 750px;
+} 
